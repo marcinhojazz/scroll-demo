@@ -49,7 +49,7 @@ export const Overlay = () => {
           <ul className="leading-9">
             <li>🧑‍💻 Como codificar</li>
             <li>🧑‍🏫 Como aprender</li>
-            <li>📦 Como entregarr</li>
+            <li>📦 Como entregar</li>
           </ul>
           <p className="animate-bounce  mt-6">↓</p>
         </Section>
