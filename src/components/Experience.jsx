@@ -9,7 +9,6 @@ export const Experience = () => {
     <>
       <OrbitControls enableZoom={false} />
       <ScrollControls pages={3} damping={0.25}>
-        <Floor />
         <Overlay />
         <Office />
       </ScrollControls>

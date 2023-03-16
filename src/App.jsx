@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       {/* const [showContent, setShowContent] = useState(false);
       const testing = true; */}
-      <div className='w-full border h-screen bg-slate-200'>
+      <div className='w-full h-screen bg-gradient-to-t from-orange-500 to-rose-500 '>
         <Canvas camera={{ 
           fov: 64,
           position: [2.3, 1.5, 2.3],

@@ -14,7 +14,9 @@ const Section = (props) => {
     >
       <div className="w-1/2 flex items-center justify-center">
         <div className="max-w-sm w-full">
-          <div className="bg-white  rounded-lg px-8 py-12">
+          <div className="bg-white shadow-2xl shadow-black rounded-lg px-8 py-12 hover:scale-105 hover:ring-4 hover:ring-sky-500 transition-all delay-150 ease-in
+            hover:animate-neon-glow
+          ">
             {props.children}
           </div>
         </div>
