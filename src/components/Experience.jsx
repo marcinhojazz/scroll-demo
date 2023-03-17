@@ -1,6 +1,7 @@
 import { OrbitControls, ScrollControls } from "@react-three/drei";
 import React from "react";
 import Floor from "./Floor";
+import { ComputerScene } from "./models/ComputerScene";
 import { Office } from "./models/Office";
 import { Overlay } from "./Overlay";
 
